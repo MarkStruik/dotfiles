@@ -33,3 +33,4 @@ dotnet-install.sh
 dotnet-install.sh.1
 nvim-linux64.deb
 zsh-syntax-highlighting/
+.lesshst
