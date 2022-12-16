@@ -35,3 +35,5 @@ nvim-linux64.deb
 zsh-syntax-highlighting/
 .lesshst
 .vscode-server
+repos
+.templateengine/dotnetcli/v6.0.403
